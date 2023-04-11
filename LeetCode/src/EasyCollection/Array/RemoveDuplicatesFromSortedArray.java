@@ -1,6 +1,4 @@
-package Array;
-
-import java.util.HashSet;
+package EasyCollection.Array;
 
 public class RemoveDuplicatesFromSortedArray {
     public static void main(String[] args) {

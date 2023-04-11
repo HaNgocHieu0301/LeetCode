@@ -1,4 +1,4 @@
-package Strings;
+package EasyCollection.Strings;
 
 public class ReverseString {
     public static void main(String[] args){

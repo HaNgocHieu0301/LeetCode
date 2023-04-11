@@ -1,6 +1,4 @@
-package Strings;
-
-import java.lang.reflect.Array;
+package EasyCollection.Strings;
 
 public class ReverseInteger {
     public static void main(String[] args) {

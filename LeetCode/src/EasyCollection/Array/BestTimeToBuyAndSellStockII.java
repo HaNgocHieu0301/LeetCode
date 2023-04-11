@@ -1,4 +1,4 @@
-package Array;
+package EasyCollection.Array;
 
 public class BestTimeToBuyAndSellStockII {
     public static void main(String[] args) {
