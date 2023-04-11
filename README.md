@@ -1,11 +1,13 @@
 # LeetCode
 ## Follow my journey of learning data structures and algorithms on LeetCode.
 ### - 11/4/2023
-- <details>
+<details>
     <summary>Revert String</summary>
-  
-  </details>
-- <details>
+    - Approach 1:
+    - Approach 2:
+</details>
+<details>
     <summary>Revert Integer</summary>
-  
-  </details>
+    - Approach 1:
+    - Approach 2:
+</details>
