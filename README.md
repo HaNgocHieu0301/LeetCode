@@ -3,8 +3,11 @@
 ### - 11/4/2023
 <details>
     <summary>Revert String</summary>
-    &nbsp;&nbsp;&nbsp;&nbsp;Approach 1:
-    - Approach 2:
+  - Mục 1
+  - Mục 2
+  - Mục 3
+  
+</details>
 </details>
 <details>
     <summary>Revert Integer</summary>
