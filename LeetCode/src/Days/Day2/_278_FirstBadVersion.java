@@ -8,7 +8,9 @@ public class _278_FirstBadVersion {
     /* The isBadVersion API is defined in the parent class VersionControl.
       boolean isBadVersion(int version);
        */
-
+    public static boolean isBadVersion(int x){
+        return true;
+    }
     public static int firstBadVersion(int n){
         int left = 0, right = n-1;
         while (left <= right) {

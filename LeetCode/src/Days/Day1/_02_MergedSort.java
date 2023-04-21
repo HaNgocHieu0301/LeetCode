@@ -31,7 +31,7 @@ public class _02_MergedSort {
                 break;
             } else if(j == nums.length -1){
                 diff++;
-                i =0;
+                i = 0;
                 j = diff;
             } else {
                 i++;
@@ -41,6 +41,7 @@ public class _02_MergedSort {
         return res;
     }
 
+    //2 3 4 5 6 7 8 9 1
     public static int[] twoSum4(int[] nums, int target){
         return new int[]{1,2,3};
     }

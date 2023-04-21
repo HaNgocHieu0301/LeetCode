@@ -1,6 +1,7 @@
 package EasyCollection.BitManipulation_Easy;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class _67_AddBinary {
@@ -36,7 +37,6 @@ public class _67_AddBinary {
         if(carry != 0) res.append(carry);
         return res.reverse().toString();
     }
-}
     //=====Method 3 =====/
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> list = new ArrayList<>();

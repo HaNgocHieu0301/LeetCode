@@ -19,7 +19,7 @@ public class _350_IntersectionOfTwoArraysII {
             n = nums2.length;
         }
         for(int i = 0; i < n; i++){
-            if(nums)
         }
+        return new int[]{};
     }
 }
